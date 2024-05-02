@@ -8,7 +8,7 @@
 #include "ODDataBarExpandedBitDecoder.h"
 
 #include "BitArray.h"
-#include "Error.h"
+#include <zxing-cpp/Error.h>
 #include "GTIN.h"
 
 #include <cmath>
