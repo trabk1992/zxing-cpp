@@ -13,7 +13,7 @@
 #include "DetectorResult.h"
 #include "GridSampler.h"
 #include "LogMatrix.h"
-#include "Point.h"
+#include <Point.h>
 #include "RegressionLine.h"
 #include "ResultPoint.h"
 #include "Scope.h"
